@@ -1,0 +1,56 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#centro{
+    margin: 200px auto;
+    width: 450px;
+    height: 350px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background: #ffffff31;
+    color: #d66b13;
+    border: 3px solid #d66b13;
+    padding-top: 40px;
+    border-radius: 50px;
+    font-size: 1.2em;
+    
+}
+
+input{
+    padding: 8px;
+    border-radius: 15px;
+    
+    color: #000000;
+}
+
+a{
+    
+    color: #d66b13;
+}
+
+a:hover{
+    color:#ffffff;
+    background: #111111;
+    padding: 6px;
+    border-radius: 15px;
+}
+
+body{
+    
+    background: url(imagens/montanhas.jpg); 
+
+}
+
+h1{
+    font-size: 1.5em;
+}
+
+button{
+    padding: 4px 50px;
+    color: #ffffff;
+    background: #19abbe;
+    border-radius: 15px;
+}
